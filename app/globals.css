@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+/**
+ * Sistema de diseño — Hotel Santa María
+ *
+ * Paleta oficial:
+ *   Deep Brown  #4A2E2A  → brown-deep  (secciones primarias)
+ *   Dark Brown  #2B1B18  → brown-dark  (header / footer)
+ *   Gold Accent #C6A75E  → gold        (botones, highlights)
+ *   Soft Gold   #E3C27A  → gold-soft   (hover states)
+ *   Warm Beige  #F4EFEA  → beige       (fondos claros)
+ *   White       #FFFFFF
+ *   Dark text   #1E1E1E
+ *
+ * Tipografía:
+ *   Headings → Playfair Display (serif luxury)  via var(--font-playfair)
+ *   Body     → Inter (clean sans-serif)         via var(--font-inter)
+ */
+
+@theme {
+  /* ── Paleta principal ──────────────────────────────────────────────── */
+  --color-brown-deep:  #4A2E2A;   /* secciones de fondo oscuro        */
+  --color-brown-dark:  #2B1B18;   /* header / footer                  */
+  --color-brown-mid:   #6B4226;   /* bordes, separadores              */
+  --color-brown-light: #8B5E3C;   /* texto secundario sobre claro     */
+
+  --color-gold:        #C6A75E;   /* botones principales, highlights  */
+  --color-gold-soft:   #E3C27A;   /* hover states                     */
+  --color-gold-muted:  #A8862E;   /* texto dorado oscuro              */
+
+  --color-beige:       #F4EFEA;   /* fondos claros                    */
+  --color-beige-dark:  #E8DDD3;   /* bordes sobre fondo beige         */
+
+  --color-dark-text:   #1E1E1E;   /* texto oscuro principal           */
+
+  /* Aliases legacy (mantienen compatibilidad con clases existentes) */
+  --color-gold-50:   #fdf9ed;
+  --color-gold-100:  #f9edbc;
+  --color-gold-200:  #f0d472;
+  --color-gold-300:  #E3C27A;   /* → gold-soft          */
+  --color-gold-400:  #E3C27A;   /* → gold hover (Soft Gold) */
+  --color-gold-500:  #C6A75E;   /* → gold accent        */
+  --color-gold-600:  #A8862E;   /* → gold-muted (admin hover) */
+  --color-gold-700:  #8b6914;
+  --color-gold-800:  #6b4f0f;
+  --color-gold-900:  #4a370a;
+
+  --color-brown-50:  #fdf6f0;
+  --color-brown-100: #f5ece0;
+  --color-brown-200: #e8d3bf;
+  --color-brown-300: #d4b49a;
+  --color-brown-400: #b08060;
+  --color-brown-500: #8B5E3C;
+  --color-brown-600: #6B4226;
+  --color-brown-700: #4f3018;
+  --color-brown-800: #3d2314;
+  --color-brown-900: #2B1B18;   /* → brown-dark */
+
+  --color-cream:      #F4EFEA;   /* → beige */
+  --color-cream-dark: #E8DDD3;   /* → beige-dark */
+
+  /* ── Tipografía ──────────────────────────────────────────────────── */
+  --font-serif: var(--font-playfair), Georgia, "Times New Roman", serif;
+  --font-sans:  var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono:  var(--font-geist-mono);
+
+  /* ── Semánticos ──────────────────────────────────────────────────── */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+}
+
+:root {
+  --background: #F4EFEA;   /* Warm Beige — fondo principal  */
+  --foreground: #1E1E1E;   /* Dark text  — texto principal  */
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+/* Utility: títulos con tipografía serif del hotel */
+.hotel-title {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
