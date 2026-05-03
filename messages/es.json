@@ -1,0 +1,780 @@
+{
+  "login": {
+    "titulo": "Acceso para Personal",
+    "subtitulo": "Ingrese sus credenciales para acceder al sistema de gestión",
+    "ariaLabel": "Formulario de inicio de sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "ingresar": "Ingresar",
+    "cargando": "Verificando...",
+    "hint": "Use cualquier correo y contraseña para ingresar al sistema.",
+    "volver": "Volver al inicio"
+  },
+  "navAdmin": {
+    "ariaLabel": "Navegación de administración",
+    "clientes": "Clientes",
+    "reservas": "Reservas",
+    "checkin": "Check-in",
+    "pagos": "Pagos",
+    "pqrs": "PQRS",
+    "solicitudes": "Solicitudes",
+    "inscripciones": "Inscripciones",
+    "paquetes": "Paquetes",
+    "tours": "Tours",
+    "usuario": "Administrador",
+    "cerrarSesion": "Cerrar sesión"
+  },
+  "home": {
+    "nav": {
+      "ariaLabel": "Navegación principal",
+      "habitaciones": "Habitaciones",
+      "eventos": "Eventos",
+      "tours": "Tours",
+      "servicios": "Servicios",
+      "contacto": "Contacto",
+      "reservar": "Reservar ahora",
+      "adminLogin": "Acceso Admin"
+    },
+    "hero": {
+      "titulo": "Una experiencia excepcional comienza aquí",
+      "subtitulo": "Descubra el lujo refinado y la calidez inigualable en el corazón de la elegancia.",
+      "form": {
+        "ariaLabel": "Formulario de búsqueda de disponibilidad",
+        "llegada": "Llegada",
+        "salida": "Salida",
+        "seleccionarFechas": "Seleccionar fechas",
+        "huespedes": "Huéspedes",
+        "adultos": "Adultos",
+        "ninos": "Niños",
+        "menosAdultos": "Reducir número de adultos",
+        "masAdultos": "Aumentar número de adultos",
+        "menosNinos": "Reducir número de niños",
+        "masNinos": "Aumentar número de niños",
+        "aplicar": "Aplicar",
+        "buscar": "Buscar disponibilidad"
+      },
+      "chat": {
+        "label": "¡Chatea con nosotros!",
+        "ariaLabel": "Abrir chat de atención al cliente"
+      }
+    },
+    "servicios": {
+      "eyebrow": "Lo que ofrecemos",
+      "titulo": "Servicios de Clase Mundial",
+      "items": {
+        "alojamiento": {
+          "titulo": "Alojamiento de Lujo",
+          "descripcion": "Habitaciones y suites diseñadas para el descanso absoluto con vistas panorámicas."
+        },
+        "gastronomia": {
+          "titulo": "Alta Gastronomía",
+          "descripcion": "Sabores de autor y espacios sofisticados para sus celebraciones y eventos."
+        },
+        "spa": {
+          "titulo": "Spa & Bienestar",
+          "descripcion": "Tratamientos exclusivos para renovar cuerpo y mente en un ambiente de serenidad."
+        },
+        "concierge": {
+          "titulo": "Servicio de Conserjería",
+          "descripcion": "Atención personalizada 24/7 para satisfacer cada detalle de su estancia."
+        }
+      }
+    },
+    "explorar": {
+      "eyebrow": "Nuestro refugio",
+      "titulo": "Explore Nuestro Refugio",
+      "cards": {
+        "habitaciones": {
+          "titulo": "Habitaciones",
+          "descripcion": "Suites diseñadas para el descanso absoluto con vistas panorámicas.",
+          "cta": "Ver detalles"
+        },
+        "eventos": {
+          "titulo": "Eventos & Gastronomía",
+          "descripcion": "Sabores de autor y espacios sofisticados para sus celebraciones.",
+          "cta": "Explorar menú"
+        },
+        "tours": {
+          "titulo": "Tours",
+          "descripcion": "Experiencias locales curadas para descubrir la esencia de la ciudad.",
+          "cta": "Descubrir tours"
+        },
+        "paquetes": {
+          "titulo": "Paquetes",
+          "descripcion": "Ofertas exclusivas y paquetes de temporada diseñados para usted.",
+          "cta": "Ver ofertas"
+        }
+      }
+    },
+    "legado": {
+      "eyebrow": "Nuestro Legado",
+      "titulo": "Tradición y modernidad en perfecta armonía.",
+      "descripcion": "Desde nuestra fundación, el Hotel Santa María ha sido el epicentro del lujo discreto. Cada detalle, desde el lino de nuestras camas hasta el servicio de conserjería, está pensado para superar las expectativas del viajero más exigente.",
+      "cta": "Conozca nuestra historia"
+    },
+    "footer": {
+      "ariaLabel": "Pie de página",
+      "tagline": "Elevando el estándar de la hospitalidad de lujo con servicios personalizados y un entorno inigualable.",
+      "direccion": "Cra. 1 #18A - 12, Bogotá, Colombia",
+      "telefono": "+57 317 823 4567",
+      "email": "reservas@santamariahotel.com",
+      "informacion": "Información",
+      "contacto": "Contacto",
+      "newsletter": "Newsletter",
+      "newsletterTexto": "Suscríbase para recibir ofertas exclusivas.",
+      "newsletterAriaLabel": "Formulario de suscripción al newsletter",
+      "emailLabel": "Su correo electrónico",
+      "emailPlaceholder": "Su email",
+      "suscribirse": "OK",
+      "links": {
+        "faq": "Preguntas Frecuentes",
+        "politicas": "Políticas de Cancelación",
+        "privacidad": "Privacidad & Cookies",
+        "terminos": "Términos de Servicio"
+      },
+      "copyright": "© 2026 Hotel Santa María. Todos los derechos reservados."
+    }
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "confirm": "Confirmar",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "noResults": "Sin resultados",
+    "noActionsAvailable": "No hay acciones disponibles",
+    "actions": "Acciones",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "new": "Nuevo",
+    "status": "Estado",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "yes": "Sí",
+    "no": "No",
+    "total": "Total",
+    "page": "Página",
+    "of": "de",
+    "allStates": "Todos los estados",
+    "allTypes": "Todos los tipos",
+    "previousPage": "Página anterior",
+    "nextPage": "Página siguiente",
+    "room": "Habitación",
+    "roomAbbrev": "Hab.",
+    "client": "Cliente",
+    "reservation": "Reserva",
+    "assigned": "Asignado",
+    "type": "Tipo",
+    "subject": "Asunto",
+    "description": "Descripción",
+    "priority": "Prioridad",
+    "creationDate": "Fecha de creación",
+    "method": "Método",
+    "reference": "Referencia",
+    "paymentDate": "Fecha de pago"
+  },
+  "nav": {
+    "home": "Inicio",
+    "clientes": "Clientes",
+    "reservas": "Reservas",
+    "checkin": "Check-in",
+    "pagos": "Pagos",
+    "pqrs": "PQRS",
+    "solicitudes": "Solicitudes",
+    "inscripciones": "Inscripciones",
+    "paquetes": "Paquetes",
+    "tours": "Tours"
+  },
+  "clientes": {
+    "title": "Gestión de Clientes",
+    "nuevo": "Nuevo cliente",
+    "sinClientes": "No hay clientes registrados",
+    "editarTitulo": "Editar cliente",
+    "crearTitulo": "Nuevo cliente",
+    "campos": {
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "tipoDocumento": "Tipo de documento",
+      "numeroDocumento": "Número de documento",
+      "correo": "Correo electrónico",
+      "telefono": "Teléfono",
+      "nacionalidad": "Nacionalidad",
+      "fechaNacimiento": "Fecha de nacimiento",
+      "estado": "Estado"
+    },
+    "tiposDocumento": {
+      "CC": "Cédula de ciudadanía",
+      "CE": "Cédula de extranjería",
+      "PASAPORTE": "Pasaporte",
+      "TI": "Tarjeta de identidad"
+    },
+    "errores": {
+      "nombreRequerido": "El nombre es requerido",
+      "apellidoRequerido": "El apellido es requerido",
+      "tipoDocumentoRequerido": "El tipo de documento es requerido",
+      "documentoRequerido": "El número de documento es requerido",
+      "documentoDuplicado": "Este documento ya está registrado",
+      "correoInvalido": "El correo no tiene un formato válido",
+      "correoRequerido": "El correo es requerido",
+      "clienteConReservas": "No se puede eliminar: el cliente tiene reservas activas"
+    },
+    "eliminar": {
+      "titulo": "Eliminar cliente",
+      "mensaje": "¿Estás seguro de que deseas eliminar a {nombre} {apellido}? Esta acción no se puede deshacer."
+    }
+  },
+  "reservas": {
+    "title": "Gestión de Reservas",
+    "nueva": "Nueva reserva",
+    "sinReservas": "No hay reservas registradas",
+    "editarTitulo": "Editar reserva",
+    "crearTitulo": "Nueva reserva",
+    "estados": {
+      "pendiente": "Pendiente",
+      "confirmada": "Confirmada",
+      "cancelada": "Cancelada",
+      "en_curso": "En curso",
+      "completada": "Completada"
+    },
+    "tiposHabitacion": {
+      "SENCILLA": "Sencilla",
+      "DOBLE": "Doble",
+      "SUITE": "Suite",
+      "FAMILIAR": "Familiar"
+    },
+    "campos": {
+      "cliente": "Cliente",
+      "habitacion": "N° Habitación",
+      "tipoHabitacion": "Tipo de habitación",
+      "fechaEntrada": "Fecha de entrada",
+      "fechaSalida": "Fecha de salida",
+      "numeroHuespedes": "N° de huéspedes",
+      "observaciones": "Observaciones",
+      "total": "Total",
+      "noches": "noches"
+    },
+    "errores": {
+      "fechasInvalidas": "La fecha de salida debe ser posterior a la de entrada",
+      "habitacionNoDisponible": "La habitación no está disponible en las fechas seleccionadas",
+      "clienteRequerido": "Debe seleccionar un cliente",
+      "habitacionRequerida": "Debe ingresar el número de habitación",
+      "fechaEntradaRequerida": "La fecha de entrada es requerida",
+      "fechaSalidaRequerida": "La fecha de salida es requerida"
+    },
+    "cancelar": {
+      "titulo": "Cancelar reserva",
+      "mensaje": "¿Estás seguro de que deseas cancelar la reserva de {nombre}?",
+      "motivo": "Motivo de cancelación (opcional)"
+    }
+  },
+  "reservar": {
+    "nav": {
+      "ariaLabel": "Navegación principal",
+      "inicio": "INICIO",
+      "reserva": "RESERVA",
+      "ayuda": "AYUDA"
+    },
+    "abandonar": "Abandonar proceso",
+    "anterior": "Anterior",
+    "siguientePaso": "Siguiente paso",
+    "pasoIndicador": "Paso {paso} de {total}",
+    "completado": "completado",
+    "progreso": "Progreso de la reserva",
+    "habitacionesDisponibles": "Habitaciones Disponibles",
+    "proximamente": "Próximamente disponible",
+    "pasos": {
+      "habitacion": {
+        "label": "Habitación",
+        "titulo": "Selección de habitación"
+      },
+      "servicios": {
+        "label": "Servicios",
+        "titulo": "Servicios adicionales"
+      },
+      "pago": {
+        "label": "Confirmación",
+        "titulo": "Datos del huésped"
+      }
+    },
+    "huesped": {
+      "titulo": "Información del huésped",
+      "subtitulo": "Complete sus datos para confirmar la reserva",
+      "nombre": "Nombre",
+      "apellido": "Apellido",
+      "tipoDocumento": "Tipo de documento",
+      "numeroDocumento": "Número de documento",
+      "correo": "Correo electrónico",
+      "telefono": "Teléfono",
+      "nacionalidad": "Nacionalidad",
+      "fechaNacimiento": "Fecha de nacimiento",
+      "observaciones": "Observaciones (opcional)",
+      "observacionesPlaceholder": "Solicitudes especiales, preferencias de habitación, etc.",
+      "documentoCC": "Cédula de ciudadanía",
+      "documentoCE": "Cédula de extranjería",
+      "documentoPASAPORTE": "Pasaporte",
+      "documentoTI": "Tarjeta de identidad",
+      "confirmar": "Confirmar reserva",
+      "errores": {
+        "nombreRequerido": "El nombre es requerido",
+        "apellidoRequerido": "El apellido es requerido",
+        "tipoDocumentoRequerido": "Seleccione el tipo de documento",
+        "numeroDocumentoRequerido": "El número de documento es requerido",
+        "correoRequerido": "El correo es requerido",
+        "correoInvalido": "El correo no es válido",
+        "telefonoRequerido": "El teléfono es requerido",
+        "nacionalidadRequerida": "La nacionalidad es requerida",
+        "fechaNacimientoRequerida": "La fecha de nacimiento es requerida"
+      }
+    },
+    "confirmacion": {
+      "titulo": "¡Reserva confirmada!",
+      "subtitulo": "Su reserva ha sido registrada exitosamente. Recibirá una confirmación por correo.",
+      "idLabel": "N° de reserva",
+      "habitacionLabel": "Habitación",
+      "entradaLabel": "Fecha de entrada",
+      "salidaLabel": "Fecha de salida",
+      "nochesLabel": "Duración",
+      "totalLabel": "Total (COP)",
+      "nota": "El estado inicial es 'pendiente'. El equipo del hotel confirmará su reserva pronto.",
+      "irInicio": "Volver al inicio"
+    },
+    "tarjeta": {
+      "masPopular": "Más Popular",
+      "amenidades": "Amenidades",
+      "porNoche": "/ noche",
+      "seleccionar": "Seleccionar",
+      "deseleccionar": "Deseleccionar"
+    },
+    "resumen": {
+      "ariaLabel": "Resumen de estancia",
+      "titulo": "Resumen de estancia",
+      "estancia": "Estancia",
+      "huespedes": "Huéspedes",
+      "editar": "Editar",
+      "cerrar": "Cerrar",
+      "entrada": "Fecha de entrada",
+      "salida": "Fecha de salida",
+      "adultos": "Número de adultos",
+      "adultosLabel": "adultos",
+      "noches": "noches",
+      "desglosePrecio": "Desglose de precio",
+      "impuestos": "Impuestos y cargos (9.28%)",
+      "total": "Total",
+      "disclaimer": "Precio total incluye impuestos y cargos hoteleros.",
+      "sinHabitacion": "Selecciona una habitación para ver el total.",
+      "faqTitulo": "Preguntas frecuentes",
+      "faq1Pregunta": "¿Puedo cancelar mi reserva?",
+      "faq1Respuesta": "Sí, puede cancelar hasta 48 horas antes del check-in sin cargo.",
+      "faq2Pregunta": "¿Cuál es el horario de check-in?",
+      "faq2Respuesta": "El check-in es a partir de las 3:00 PM y el check-out hasta las 12:00 PM.",
+      "ayudaBoton": "¿Necesitas ayuda?",
+      "ayudaAriaLabel": "Abrir chat de ayuda"
+    },
+    "footer": {
+      "privacidad": "Privacidad",
+      "terminos": "Términos",
+      "contacto": "Contacto"
+    }
+  },
+  "chat": {
+    "titulo": "Asistente Virtual",
+    "ariaLabel": "Chat de asistencia del Hotel Santa María",
+    "cerrar": "Cerrar chat",
+    "placeholder": "Escribe tu pregunta...",
+    "enviar": "Enviar mensaje"
+  },
+  "checkin": {
+    "title": "Check-in Digital",
+    "registrar": "Registrar check-in",
+    "sinCheckins": "No hay check-ins para hoy",
+    "pendientes": "{count} pendientes hoy",
+    "editarTitulo": "Actualizar check-in",
+    "estados": {
+      "pendiente": "Pendiente",
+      "completado": "Completado",
+      "no_presentado": "No presentado",
+      "anulado": "Anulado"
+    },
+    "campos": {
+      "cliente": "Cliente",
+      "habitacion": "Habitación",
+      "fechaHoraCheckin": "Fecha y hora de check-in",
+      "fechaEsperadaCheckout": "Check-out esperado",
+      "numeroAcompanantes": "N° de acompañantes",
+      "observaciones": "Observaciones"
+    },
+    "errores": {
+      "sinReserva": "El cliente no tiene reserva activa para hoy",
+      "yaRealizado": "Este huésped ya realizó el check-in a las {hora}",
+      "motivoRequerido": "Debe ingresar un motivo para la anulación"
+    },
+    "anular": {
+      "titulo": "Anular check-in",
+      "mensaje": "¿Estás seguro de que deseas anular el check-in de {nombre} en la habitación {habitacion}?",
+      "motivo": "Motivo de anulación"
+    }
+  },
+  "pagos": {
+    "title": "Gestión de Pagos",
+    "nuevo": "Registrar pago",
+    "sinPagos": "No hay pagos registrados",
+    "editarTitulo": "Editar pago",
+    "crearTitulo": "Registrar pago",
+    "paymentRecorded": "pago registrado",
+    "paymentsRecorded": "pagos registrados",
+    "selectReservation": "Seleccionar reserva...",
+    "totalReservation": "Total reserva",
+    "searchPlaceholder": "por cliente, reserva o referencia...",
+    "estados": {
+      "pendiente": "Pendiente",
+      "completado": "Completado",
+      "rechazado": "Rechazado",
+      "reembolsado": "Reembolsado",
+      "anulado": "Anulado"
+    },
+    "metodosPago": {
+      "EFECTIVO": "Efectivo",
+      "TARJETA_CREDITO": "Tarjeta de crédito",
+      "TARJETA_DEBITO": "Tarjeta de débito",
+      "TRANSFERENCIA": "Transferencia bancaria",
+      "PSE": "PSE"
+    },
+    "campos": {
+      "reserva": "Reserva",
+      "cliente": "Cliente",
+      "monto": "Monto",
+      "fecha": "Fecha de pago",
+      "metodoPago": "Método de pago",
+      "referencia": "N° de referencia",
+      "observaciones": "Observaciones"
+    },
+    "placeholders": {
+      "referencia": "Ej: VISA-****1234",
+      "motivoAnulacion": "Ej: Pago duplicado, error de registro..."
+    },
+    "errores": {
+      "reservaRequerida": "Debe seleccionar una reserva",
+      "montoRequerido": "El monto es requerido",
+      "montoInvalido": "El monto debe ser mayor a cero",
+      "fechaRequerida": "La fecha de pago es requerida",
+      "metodoPagoRequerido": "Debe seleccionar un método de pago",
+      "motivoRequerido": "Debe ingresar un motivo para la anulación"
+    },
+    "anular": {
+      "titulo": "Anular pago",
+      "mensaje": "¿Estás seguro de que deseas anular el pago de {monto} para la reserva {reserva}?",
+      "motivo": "Motivo de anulación"
+    }
+  },
+  "pqrs": {
+    "title": "Gestión de PQRS",
+    "nuevo": "Registrar PQRS",
+    "sinPqrs": "No hay solicitudes registradas",
+    "sinPqrsEnEstado": "Sin solicitudes",
+    "requestsInState": "solicitudes en este estado",
+    "editarTitulo": "Editar PQRS",
+    "crearTitulo": "Registrar PQRS",
+    "requestRecorded": "solicitud registrada",
+    "requestsRecorded": "solicitudes registradas",
+    "anonymous": "Anónimo",
+    "noReservationAssociated": "Sin reserva asociada",
+    "inProcess": "En Proceso",
+    "resolve": "Resolver",
+    "searchPlaceholder": "por asunto, cliente, habitación...",
+    "tipos": {
+      "peticion": "Petición",
+      "queja": "Queja",
+      "reclamo": "Reclamo",
+      "sugerencia": "Sugerencia"
+    },
+    "estados": {
+      "pendiente": "Pendiente",
+      "en_proceso": "En Proceso",
+      "resuelto": "Resuelto",
+      "cerrado": "Cerrado"
+    },
+    "prioridades": {
+      "baja": "Baja",
+      "media": "Media",
+      "alta": "Alta",
+      "urgente": "Urgente"
+    },
+    "campos": {
+      "tipo": "Tipo",
+      "asunto": "Asunto",
+      "descripcion": "Descripción",
+      "cliente": "Cliente",
+      "habitacionNumero": "Habitación",
+      "reserva": "Reserva",
+      "prioridad": "Prioridad",
+      "fechaCreacion": "Fecha de creación",
+      "fechaLimite": "Fecha límite",
+      "asignadoA": "Asignado a",
+      "respuesta": "Respuesta/Solución"
+    },
+    "placeholders": {
+      "asunto": "Resumen breve del asunto",
+      "descripcion": "Descripción detallada...",
+      "habitacion": "Ej: 305",
+      "asignadoA": "Nombre del empleado",
+      "respuesta": "Solución o respuesta al PQRS..."
+    },
+    "errores": {
+      "asuntoRequerido": "El asunto es requerido",
+      "descripcionRequerida": "La descripción es requerida",
+      "datosIncompletos": "Debe completar todos los campos requeridos"
+    },
+    "acciones": {
+      "marcarEnProceso": "Marcar en proceso",
+      "marcarResuelto": "Marcar como resuelto"
+    },
+    "eliminar": {
+      "titulo": "Eliminar PQRS",
+      "mensaje": "¿Estás seguro de que deseas eliminar este registro? Esta acción no se puede deshacer."
+    }
+  },
+  "solicitudes": {
+    "title": "Gestión de Solicitudes",
+    "nuevo": "Nueva solicitud",
+    "sinSolicitudes": "No hay solicitudes registradas",
+    "editarTitulo": "Editar solicitud",
+    "crearTitulo": "Nueva solicitud",
+    "requestRecorded": "solicitud registrada",
+    "requestsRecorded": "solicitudes registradas",
+    "selectReservation": "Seleccionar reserva...",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "start": "Iniciar",
+    "complete": "Completar",
+    "searchPlaceholder": "por cliente, habitación o descripción...",
+    "tipos": {
+      "limpieza": "Limpieza",
+      "comida": "Comida",
+      "bebidas": "Bebidas",
+      "amenidades": "Amenidades",
+      "mantenimiento": "Mantenimiento",
+      "lavanderia": "Lavandería",
+      "transporte": "Transporte",
+      "otro": "Otro"
+    },
+    "estados": {
+      "pendiente": "Pendiente",
+      "en_proceso": "En Proceso",
+      "completada": "Completada",
+      "cancelada": "Cancelada"
+    },
+    "prioridades": {
+      "baja": "Baja",
+      "media": "Media",
+      "alta": "Alta",
+      "urgente": "Urgente"
+    },
+    "campos": {
+      "tipo": "Tipo de solicitud",
+      "descripcion": "Descripción",
+      "habitacion": "Habitación",
+      "cliente": "Cliente",
+      "reserva": "Reserva",
+      "prioridad": "Prioridad",
+      "empleadoAsignado": "Empleado asignado",
+      "fechaSolicitud": "Fecha de solicitud",
+      "fechaCompletada": "Fecha completada",
+      "notas": "Notas adicionales"
+    },
+    "placeholders": {
+      "habitacion": "Ej: 101, 205, Suite 301",
+      "empleado": "Nombre del empleado",
+      "descripcion": "Ej: Limpieza profunda de habitación, cambio de toallas y amenidades...",
+      "notas": "Notas adicionales del staff...",
+      "motivoCancelacion": "Ej: Solicitud duplicada, cliente canceló, error en la solicitud..."
+    },
+    "errores": {
+      "reservaRequerida": "Debe seleccionar una reserva",
+      "descripcionRequerida": "La descripción es requerida",
+      "habitacionRequerida": "La habitación es requerida",
+      "tipoRequerido": "Debe seleccionar un tipo de solicitud"
+    },
+    "cancelar": {
+      "titulo": "Cancelar solicitud",
+      "mensaje": "¿Estás seguro de que deseas cancelar la solicitud de {tipo} para la habitación {habitacion}?",
+      "motivo": "Motivo de cancelación"
+    }
+  },
+  "inscripciones": {
+    "title": "Inscripciones a eventos y restaurante",
+    "nuevo": "Nueva inscripción",
+    "contadorUna": "inscripción registrada",
+    "contadorVarias": "inscripciones registradas",
+    "sinInscripciones": "No hay inscripciones registradas",
+    "editarTitulo": "Editar inscripción",
+    "crearTitulo": "Nueva inscripción",
+    "searchPlaceholder": "por actividad, cliente o descripción...",
+    "categorias": {
+      "evento": "Evento",
+      "restaurante": "Restaurante"
+    },
+    "estados": {
+      "pendiente": "Pendiente",
+      "confirmada": "Confirmada",
+      "cancelada": "Cancelada",
+      "completada": "Completada"
+    },
+    "campos": {
+      "categoria": "Categoría",
+      "nombreActividad": "Actividad",
+      "descripcion": "Descripción",
+      "cliente": "Cliente",
+      "reserva": "Reserva (opcional)",
+      "fechaEvento": "Fecha",
+      "horaInicio": "Hora",
+      "fechaHora": "Fecha y hora",
+      "numeroPersonas": "Personas",
+      "estado": "Estado"
+    },
+    "placeholders": {
+      "buscar": "Buscar por actividad, cliente...",
+      "seleccioneCliente": "Seleccione un cliente",
+      "reservaOpcional": "Sin vincular reserva"
+    },
+    "filtros": {
+      "todasCategorias": "Todas las categorías",
+      "todosEstados": "Todos los estados"
+    },
+    "errores": {
+      "nombreRequerido": "El nombre de la actividad es requerido",
+      "descripcionRequerida": "La descripción es requerida",
+      "clienteRequerido": "Debe seleccionar un cliente",
+      "personasInvalidas": "Indique al menos una persona",
+      "datosIncompletos": "Complete los campos requeridos"
+    },
+    "acciones": {
+      "cancelar": "Cancelar inscripción",
+      "marcarCompletada": "Marcar completada"
+    },
+    "cancelar": {
+      "titulo": "Cancelar inscripción",
+      "mensaje": "¿Cancelar la inscripción a «{actividad}»?",
+      "motivo": "Motivo (opcional)"
+    },
+    "eliminar": {
+      "titulo": "Eliminar inscripción",
+      "mensaje": "Solo se pueden eliminar inscripciones pendientes. ¿Continuar?"
+    }
+  },
+  "paquetes": {
+    "title": "Paquetes promocionales",
+    "nuevo": "Nuevo paquete",
+    "contadorUno": "paquete en catálogo",
+    "contadorVarios": "paquetes en catálogo",
+    "sinPaquetes": "No hay paquetes registrados",
+    "editarTitulo": "Editar paquete",
+    "crearTitulo": "Nuevo paquete promocional",
+    "searchPlaceholder": "por nombre, descripción o vigencia...",
+    "estados": {
+      "activo": "Activo",
+      "inactivo": "Inactivo",
+      "agotado": "Agotado"
+    },
+    "campos": {
+      "nombre": "Nombre",
+      "descripcion": "Descripción",
+      "precioLista": "Precio de lista (COP)",
+      "precioPromocional": "Precio promocional (COP)",
+      "fechaInicioVigencia": "Inicio de vigencia",
+      "fechaFinVigencia": "Fin de vigencia",
+      "cuposTotales": "Cupos totales",
+      "cuposVendidos": "Cupos vendidos",
+      "estado": "Estado",
+      "incluye": "Qué incluye"
+    },
+    "tabla": {
+      "precios": "Precios",
+      "vigencia": "Vigencia",
+      "cupos": "Cupos (vendidos/total)",
+      "descuento": "−{pct}% vs lista"
+    },
+    "placeholders": {
+      "buscar": "Buscar paquetes..."
+    },
+    "filtros": {
+      "todosEstados": "Todos los estados"
+    },
+    "errores": {
+      "nombreRequerido": "El nombre es requerido",
+      "descripcionRequerida": "La descripción es requerida",
+      "incluyeRequerido": "Describa qué incluye el paquete",
+      "precioInvalido": "El precio debe ser mayor a cero",
+      "promoMayorLista": "El precio promocional no puede superar el de lista",
+      "cuposInvalidos": "Debe haber al menos un cupo",
+      "cuposMenosVendidos": "Los cupos no pueden ser menores a los ya vendidos",
+      "fechasInvalidas": "La fecha fin debe ser posterior o igual al inicio",
+      "datosIncompletos": "Revise los datos del paquete"
+    },
+    "eliminar": {
+      "titulo": "Eliminar paquete",
+      "mensaje": "Solo se eliminan paquetes inactivos. ¿Desea continuar?"
+    }
+  },
+  "tours": {
+    "title": "Agendamiento de tours",
+    "nuevo": "Nuevo agendamiento",
+    "contadorUno": "agendamiento",
+    "contadorVarios": "agendamientos",
+    "participanteUno": "participante",
+    "participanteVarios": "participantes",
+    "mostrarAgendamientos": "Mostrar",
+    "ocultarAgendamientos": "Ocultar agendamientos",
+    "sinAgendamientos": "No hay tours agendados",
+    "sinAgendamientosTour": "No hay agendamientos para este tour",
+    "editarTitulo": "Editar agendamiento",
+    "crearTitulo": "Agendar tour",
+    "searchPlaceholder": "por tour, huésped o punto de encuentro...",
+    "estados": {
+      "pendiente": "Pendiente",
+      "confirmado": "Confirmado",
+      "cancelado": "Cancelado",
+      "realizado": "Realizado"
+    },
+    "campos": {
+      "tour": "Tour",
+      "cliente": "Huésped",
+      "reserva": "Reserva (opcional)",
+      "fecha": "Fecha",
+      "horaSalida": "Hora de salida",
+      "fechaHora": "Fecha y hora",
+      "numeroParticipantes": "Participantes",
+      "puntoEncuentro": "Punto de encuentro",
+      "guiaAsignado": "Guía asignado",
+      "estado": "Estado"
+    },
+    "placeholders": {
+      "buscar": "Buscar por tour, cliente, punto de encuentro...",
+      "seleccioneTour": "Seleccione un tour",
+      "seleccioneCliente": "Seleccione un huésped",
+      "reservaOpcional": "Sin vincular reserva"
+    },
+    "filtros": {
+      "todosEstados": "Todos los estados"
+    },
+    "errores": {
+      "tourRequerido": "Seleccione un tour del catálogo",
+      "clienteRequerido": "Seleccione un huésped",
+      "puntoRequerido": "Indique el punto de encuentro",
+      "participantesInvalidos": "Al menos un participante",
+      "datosIncompletos": "Complete los datos requeridos"
+    },
+    "acciones": {
+      "cancelar": "Cancelar agendamiento",
+      "marcarConfirmado": "Marcar confirmado",
+      "marcarRealizado": "Marcar realizado"
+    },
+    "cancelar": {
+      "titulo": "Cancelar agendamiento",
+      "mensaje": "¿Cancelar el tour «{tour}»?",
+      "motivo": "Motivo (opcional)"
+    }
+  }
+}

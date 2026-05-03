@@ -1,0 +1,780 @@
+{
+  "login": {
+    "titulo": "Staff Access",
+    "subtitulo": "Enter your credentials to access the management system",
+    "ariaLabel": "Login form",
+    "email": "Email address",
+    "password": "Password",
+    "ingresar": "Sign in",
+    "cargando": "Verifying...",
+    "hint": "Use any email and password to access the system.",
+    "volver": "Back to home"
+  },
+  "navAdmin": {
+    "ariaLabel": "Administration navigation",
+    "clientes": "Guests",
+    "reservas": "Reservations",
+    "checkin": "Check-in",
+    "pagos": "Payments",
+    "pqrs": "PQRS",
+    "solicitudes": "Requests",
+    "inscripciones": "Sign-ups",
+    "paquetes": "Packages",
+    "tours": "Tours",
+    "usuario": "Administrator",
+    "cerrarSesion": "Sign out"
+  },
+  "home": {
+    "nav": {
+      "ariaLabel": "Main navigation",
+      "habitaciones": "Rooms",
+      "eventos": "Events",
+      "tours": "Tours",
+      "servicios": "Services",
+      "contacto": "Contact",
+      "reservar": "Book now",
+      "adminLogin": "Admin Login"
+    },
+    "hero": {
+      "titulo": "An exceptional experience begins here",
+      "subtitulo": "Discover refined luxury and unparalleled warmth at the heart of elegance.",
+      "form": {
+        "ariaLabel": "Availability search form",
+        "llegada": "Arrival",
+        "salida": "Departure",
+        "seleccionarFechas": "Select dates",
+        "huespedes": "Guests",
+        "adultos": "Adults",
+        "ninos": "Children",
+        "menosAdultos": "Decrease adults",
+        "masAdultos": "Increase adults",
+        "menosNinos": "Decrease children",
+        "masNinos": "Increase children",
+        "aplicar": "Apply",
+        "buscar": "Check availability"
+      },
+      "chat": {
+        "label": "Chat with us!",
+        "ariaLabel": "Open customer support chat"
+      }
+    },
+    "servicios": {
+      "eyebrow": "What we offer",
+      "titulo": "World-Class Services",
+      "items": {
+        "alojamiento": {
+          "titulo": "Luxury Accommodation",
+          "descripcion": "Rooms and suites designed for absolute rest with panoramic views."
+        },
+        "gastronomia": {
+          "titulo": "Fine Dining",
+          "descripcion": "Signature flavours and sophisticated spaces for your celebrations."
+        },
+        "spa": {
+          "titulo": "Spa & Wellness",
+          "descripcion": "Exclusive treatments to renew body and mind in a serene atmosphere."
+        },
+        "concierge": {
+          "titulo": "Concierge Service",
+          "descripcion": "Personalised 24/7 attention to cater for every detail of your stay."
+        }
+      }
+    },
+    "explorar": {
+      "eyebrow": "Our retreat",
+      "titulo": "Explore Our Retreat",
+      "cards": {
+        "habitaciones": {
+          "titulo": "Rooms",
+          "descripcion": "Suites designed for absolute rest with panoramic views.",
+          "cta": "View details"
+        },
+        "eventos": {
+          "titulo": "Events & Gastronomy",
+          "descripcion": "Signature flavours and sophisticated spaces for your celebrations.",
+          "cta": "Explore menu"
+        },
+        "tours": {
+          "titulo": "Tours",
+          "descripcion": "Curated local experiences to discover the essence of the city.",
+          "cta": "Discover tours"
+        },
+        "paquetes": {
+          "titulo": "Packages",
+          "descripcion": "Exclusive offers and seasonal packages designed for you.",
+          "cta": "View offers"
+        }
+      }
+    },
+    "legado": {
+      "eyebrow": "Our Legacy",
+      "titulo": "Tradition and modernity in perfect harmony.",
+      "descripcion": "Since our founding, Hotel Santa María has been the epicentre of discreet luxury. Every detail — from the linen on our beds to the concierge service — is designed to exceed the expectations of the most discerning traveller.",
+      "cta": "Learn our story"
+    },
+    "footer": {
+      "ariaLabel": "Footer",
+      "tagline": "Elevating the standard of luxury hospitality with personalised services and an unparalleled setting.",
+      "direccion": "Cra. 1 #18A - 12, Bogotá, Colombia",
+      "telefono": "+57 317 823 4567",
+      "email": "reservations@santamariahotel.com",
+      "informacion": "Information",
+      "contacto": "Contact",
+      "newsletter": "Newsletter",
+      "newsletterTexto": "Subscribe to receive exclusive offers.",
+      "newsletterAriaLabel": "Newsletter subscription form",
+      "emailLabel": "Your email address",
+      "emailPlaceholder": "Your email",
+      "suscribirse": "OK",
+      "links": {
+        "faq": "Frequently Asked Questions",
+        "politicas": "Cancellation Policies",
+        "privacidad": "Privacy & Cookies",
+        "terminos": "Terms of Service"
+      },
+      "copyright": "© 2026 Hotel Santa María. All rights reserved."
+    }
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "search": "Search",
+    "loading": "Loading...",
+    "noResults": "No results",
+    "noActionsAvailable": "No actions available",
+    "actions": "Actions",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "new": "New",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "yes": "Yes",
+    "no": "No",
+    "total": "Total",
+    "page": "Page",
+    "of": "of",
+    "allStates": "All states",
+    "allTypes": "All types",
+    "previousPage": "Previous page",
+    "nextPage": "Next page",
+    "room": "Room",
+    "roomAbbrev": "Room",
+    "client": "Guest",
+    "reservation": "Reservation",
+    "assigned": "Assigned",
+    "type": "Type",
+    "subject": "Subject",
+    "description": "Description",
+    "priority": "Priority",
+    "creationDate": "Creation date",
+    "method": "Method",
+    "reference": "Reference",
+    "paymentDate": "Payment date"
+  },
+  "nav": {
+    "home": "Home",
+    "clientes": "Guests",
+    "reservas": "Reservations",
+    "checkin": "Check-in",
+    "pagos": "Payments",
+    "pqrs": "PQRS",
+    "solicitudes": "Requests",
+    "inscripciones": "Sign-ups",
+    "paquetes": "Packages",
+    "tours": "Tours"
+  },
+  "clientes": {
+    "title": "Guest Management",
+    "nuevo": "New guest",
+    "sinClientes": "No guests registered",
+    "editarTitulo": "Edit guest",
+    "crearTitulo": "New guest",
+    "campos": {
+      "nombre": "First name",
+      "apellido": "Last name",
+      "tipoDocumento": "Document type",
+      "numeroDocumento": "Document number",
+      "correo": "Email address",
+      "telefono": "Phone",
+      "nacionalidad": "Nationality",
+      "fechaNacimiento": "Date of birth",
+      "estado": "Status"
+    },
+    "tiposDocumento": {
+      "CC": "National ID",
+      "CE": "Foreign ID",
+      "PASAPORTE": "Passport",
+      "TI": "Identity card"
+    },
+    "errores": {
+      "nombreRequerido": "First name is required",
+      "apellidoRequerido": "Last name is required",
+      "tipoDocumentoRequerido": "Document type is required",
+      "documentoRequerido": "Document number is required",
+      "documentoDuplicado": "This document number is already registered",
+      "correoInvalido": "Email address is not valid",
+      "correoRequerido": "Email is required",
+      "clienteConReservas": "Cannot delete: guest has active reservations"
+    },
+    "eliminar": {
+      "titulo": "Delete guest",
+      "mensaje": "Are you sure you want to delete {nombre} {apellido}? This action cannot be undone."
+    }
+  },
+  "reservas": {
+    "title": "Reservation Management",
+    "nueva": "New reservation",
+    "sinReservas": "No reservations registered",
+    "editarTitulo": "Edit reservation",
+    "crearTitulo": "New reservation",
+    "estados": {
+      "pendiente": "Pending",
+      "confirmada": "Confirmed",
+      "cancelada": "Cancelled",
+      "en_curso": "Checked in",
+      "completada": "Completed"
+    },
+    "tiposHabitacion": {
+      "SENCILLA": "Single",
+      "DOBLE": "Double",
+      "SUITE": "Suite",
+      "FAMILIAR": "Family"
+    },
+    "campos": {
+      "cliente": "Guest",
+      "habitacion": "Room number",
+      "tipoHabitacion": "Room type",
+      "fechaEntrada": "Check-in date",
+      "fechaSalida": "Check-out date",
+      "numeroHuespedes": "Number of guests",
+      "observaciones": "Notes",
+      "total": "Total",
+      "noches": "nights"
+    },
+    "errores": {
+      "fechasInvalidas": "Check-out date must be after check-in date",
+      "habitacionNoDisponible": "Room is not available for the selected dates",
+      "clienteRequerido": "Please select a guest",
+      "habitacionRequerida": "Room number is required",
+      "fechaEntradaRequerida": "Check-in date is required",
+      "fechaSalidaRequerida": "Check-out date is required"
+    },
+    "cancelar": {
+      "titulo": "Cancel reservation",
+      "mensaje": "Are you sure you want to cancel {nombre}'s reservation?",
+      "motivo": "Cancellation reason (optional)"
+    }
+  },
+  "reservar": {
+    "nav": {
+      "ariaLabel": "Main navigation",
+      "inicio": "HOME",
+      "reserva": "BOOK",
+      "ayuda": "HELP"
+    },
+    "abandonar": "Abandon process",
+    "anterior": "Back",
+    "siguientePaso": "Next step",
+    "pasoIndicador": "Step {paso} of {total}",
+    "completado": "completed",
+    "progreso": "Booking progress",
+    "habitacionesDisponibles": "Available Rooms",
+    "proximamente": "Coming soon",
+    "pasos": {
+      "habitacion": {
+        "label": "Room",
+        "titulo": "Room selection"
+      },
+      "servicios": {
+        "label": "Services",
+        "titulo": "Additional services"
+      },
+      "pago": {
+        "label": "Confirmation",
+        "titulo": "Guest information"
+      }
+    },
+    "huesped": {
+      "titulo": "Guest information",
+      "subtitulo": "Complete your details to confirm the reservation",
+      "nombre": "First name",
+      "apellido": "Last name",
+      "tipoDocumento": "Document type",
+      "numeroDocumento": "Document number",
+      "correo": "Email",
+      "telefono": "Phone",
+      "nacionalidad": "Nationality",
+      "fechaNacimiento": "Date of birth",
+      "observaciones": "Notes (optional)",
+      "observacionesPlaceholder": "Special requests, room preferences, etc.",
+      "documentoCC": "National ID",
+      "documentoCE": "Foreign ID",
+      "documentoPASAPORTE": "Passport",
+      "documentoTI": "Identity card",
+      "confirmar": "Confirm reservation",
+      "errores": {
+        "nombreRequerido": "First name is required",
+        "apellidoRequerido": "Last name is required",
+        "tipoDocumentoRequerido": "Select a document type",
+        "numeroDocumentoRequerido": "Document number is required",
+        "correoRequerido": "Email is required",
+        "correoInvalido": "Invalid email address",
+        "telefonoRequerido": "Phone number is required",
+        "nacionalidadRequerida": "Nationality is required",
+        "fechaNacimientoRequerida": "Date of birth is required"
+      }
+    },
+    "confirmacion": {
+      "titulo": "Reservation confirmed!",
+      "subtitulo": "Your reservation has been successfully registered. You will receive a confirmation email.",
+      "idLabel": "Reservation ID",
+      "habitacionLabel": "Room",
+      "entradaLabel": "Check-in date",
+      "salidaLabel": "Check-out date",
+      "nochesLabel": "Duration",
+      "totalLabel": "Total (COP)",
+      "nota": "Initial status is 'pending'. The hotel team will confirm your reservation shortly.",
+      "irInicio": "Back to home"
+    },
+    "tarjeta": {
+      "masPopular": "Most Popular",
+      "amenidades": "Amenities",
+      "porNoche": "/ night",
+      "seleccionar": "Select",
+      "deseleccionar": "Deselect"
+    },
+    "resumen": {
+      "ariaLabel": "Stay summary",
+      "titulo": "Stay summary",
+      "estancia": "Stay",
+      "huespedes": "Guests",
+      "editar": "Edit",
+      "cerrar": "Close",
+      "entrada": "Check-in date",
+      "salida": "Check-out date",
+      "adultos": "Number of adults",
+      "adultosLabel": "adults",
+      "noches": "nights",
+      "desglosePrecio": "Price breakdown",
+      "impuestos": "Taxes & charges (9.28%)",
+      "total": "Total",
+      "disclaimer": "Total price includes taxes and hotel charges.",
+      "sinHabitacion": "Select a room to see the total.",
+      "faqTitulo": "Frequently asked questions",
+      "faq1Pregunta": "Can I cancel my reservation?",
+      "faq1Respuesta": "Yes, you can cancel up to 48 hours before check-in at no charge.",
+      "faq2Pregunta": "What are the check-in times?",
+      "faq2Respuesta": "Check-in is from 3:00 PM and check-out until 12:00 PM.",
+      "ayudaBoton": "Need help?",
+      "ayudaAriaLabel": "Open help chat"
+    },
+    "footer": {
+      "privacidad": "Privacy",
+      "terminos": "Terms",
+      "contacto": "Contact"
+    }
+  },
+  "chat": {
+    "titulo": "Virtual Assistant",
+    "ariaLabel": "Hotel Santa María support chat",
+    "cerrar": "Close chat",
+    "placeholder": "Type your question...",
+    "enviar": "Send message"
+  },
+  "checkin": {
+    "title": "Digital Check-in",
+    "registrar": "Register check-in",
+    "sinCheckins": "No check-ins for today",
+    "pendientes": "{count} pending today",
+    "editarTitulo": "Update check-in",
+    "estados": {
+      "pendiente": "Pending",
+      "completado": "Completed",
+      "no_presentado": "No show",
+      "anulado": "Voided"
+    },
+    "campos": {
+      "cliente": "Guest",
+      "habitacion": "Room",
+      "fechaHoraCheckin": "Check-in date and time",
+      "fechaEsperadaCheckout": "Expected check-out",
+      "numeroAcompanantes": "Number of companions",
+      "observaciones": "Notes"
+    },
+    "errores": {
+      "sinReserva": "Guest has no active reservation for today",
+      "yaRealizado": "This guest already checked in at {hora}",
+      "motivoRequerido": "A reason for voiding is required"
+    },
+    "anular": {
+      "titulo": "Void check-in",
+      "mensaje": "Are you sure you want to void the check-in for {nombre} in room {habitacion}?",
+      "motivo": "Reason for voiding"
+    }
+  },
+  "pagos": {
+    "title": "Payment Management",
+    "nuevo": "Register payment",
+    "sinPagos": "No payments registered",
+    "editarTitulo": "Edit payment",
+    "crearTitulo": "Register payment",
+    "paymentRecorded": "payment registered",
+    "paymentsRecorded": "payments registered",
+    "selectReservation": "Select reservation...",
+    "totalReservation": "Total reservation",
+    "searchPlaceholder": "by guest, reservation or reference...",
+    "estados": {
+      "pendiente": "Pending",
+      "completado": "Completed",
+      "rechazado": "Rejected",
+      "reembolsado": "Refunded",
+      "anulado": "Voided"
+    },
+    "metodosPago": {
+      "EFECTIVO": "Cash",
+      "TARJETA_CREDITO": "Credit card",
+      "TARJETA_DEBITO": "Debit card",
+      "TRANSFERENCIA": "Bank transfer",
+      "PSE": "PSE"
+    },
+    "campos": {
+      "reserva": "Reservation",
+      "cliente": "Guest",
+      "monto": "Amount",
+      "fecha": "Payment date",
+      "metodoPago": "Payment method",
+      "referencia": "Reference number",
+      "observaciones": "Notes"
+    },
+    "placeholders": {
+      "referencia": "E.g.: VISA-****1234",
+      "motivoAnulacion": "E.g.: Duplicate payment, registration error..."
+    },
+    "errores": {
+      "reservaRequerida": "Please select a reservation",
+      "montoRequerido": "Amount is required",
+      "montoInvalido": "Amount must be greater than zero",
+      "fechaRequerida": "Payment date is required",
+      "metodoPagoRequerido": "Please select a payment method",
+      "motivoRequerido": "A reason for voiding is required"
+    },
+    "anular": {
+      "titulo": "Void payment",
+      "mensaje": "Are you sure you want to void the payment of {monto} for reservation {reserva}?",
+      "motivo": "Reason for voiding"
+    }
+  },
+  "pqrs": {
+    "title": "PQRS Management",
+    "nuevo": "Register PQRS",
+    "sinPqrs": "No requests registered",
+    "sinPqrsEnEstado": "No requests",
+    "requestsInState": "requests in this state",
+    "editarTitulo": "Edit PQRS",
+    "crearTitulo": "Register PQRS",
+    "requestRecorded": "request registered",
+    "requestsRecorded": "requests registered",
+    "anonymous": "Anonymous",
+    "noReservationAssociated": "No reservation associated",
+    "inProcess": "In Progress",
+    "resolve": "Resolve",
+    "searchPlaceholder": "by subject, guest, room...",
+    "tipos": {
+      "peticion": "Request",
+      "queja": "Complaint",
+      "reclamo": "Claim",
+      "sugerencia": "Suggestion"
+    },
+    "estados": {
+      "pendiente": "Pending",
+      "en_proceso": "In Progress",
+      "resuelto": "Resolved",
+      "cerrado": "Closed"
+    },
+    "prioridades": {
+      "baja": "Low",
+      "media": "Medium",
+      "alta": "High",
+      "urgente": "Urgent"
+    },
+    "campos": {
+      "tipo": "Type",
+      "asunto": "Subject",
+      "descripcion": "Description",
+      "cliente": "Guest",
+      "habitacionNumero": "Room",
+      "reserva": "Reservation",
+      "prioridad": "Priority",
+      "fechaCreacion": "Creation date",
+      "fechaLimite": "Due date",
+      "asignadoA": "Assigned to",
+      "respuesta": "Response/Solution"
+    },
+    "placeholders": {
+      "asunto": "Brief summary of the subject",
+      "descripcion": "Detailed description...",
+      "habitacion": "E.g.: 305",
+      "asignadoA": "Employee name",
+      "respuesta": "Solution or response to the PQRS..."
+    },
+    "errores": {
+      "asuntoRequerido": "Subject is required",
+      "descripcionRequerida": "Description is required",
+      "datosIncompletos": "Please complete all required fields"
+    },
+    "acciones": {
+      "marcarEnProceso": "Mark in progress",
+      "marcarResuelto": "Mark as resolved"
+    },
+    "eliminar": {
+      "titulo": "Delete PQRS",
+      "mensaje": "Are you sure you want to delete this record? This action cannot be undone."
+    }
+  },
+  "solicitudes": {
+    "title": "Request Management",
+    "nuevo": "New request",
+    "sinSolicitudes": "No requests registered",
+    "editarTitulo": "Edit request",
+    "crearTitulo": "New request",
+    "requestRecorded": "request registered",
+    "requestsRecorded": "requests registered",
+    "selectReservation": "Select reservation...",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "start": "Start",
+    "complete": "Complete",
+    "searchPlaceholder": "by guest, room or description...",
+    "tipos": {
+      "limpieza": "Cleaning",
+      "comida": "Food",
+      "bebidas": "Beverages",
+      "amenidades": "Amenities",
+      "mantenimiento": "Maintenance",
+      "lavanderia": "Laundry",
+      "transporte": "Transportation",
+      "otro": "Other"
+    },
+    "estados": {
+      "pendiente": "Pending",
+      "en_proceso": "In Progress",
+      "completada": "Completed",
+      "cancelada": "Cancelled"
+    },
+    "prioridades": {
+      "baja": "Low",
+      "media": "Medium",
+      "alta": "High",
+      "urgente": "Urgent"
+    },
+    "campos": {
+      "tipo": "Request type",
+      "descripcion": "Description",
+      "habitacion": "Room",
+      "cliente": "Guest",
+      "reserva": "Reservation",
+      "prioridad": "Priority",
+      "empleadoAsignado": "Assigned employee",
+      "fechaSolicitud": "Request date",
+      "fechaCompletada": "Completed date",
+      "notas": "Additional notes"
+    },
+    "placeholders": {
+      "habitacion": "E.g.: 101, 205, Suite 301",
+      "empleado": "Employee name",
+      "descripcion": "E.g.: Room deep cleaning, towel change and amenities...",
+      "notas": "Additional staff notes...",
+      "motivoCancelacion": "E.g.: Duplicate request, guest cancelled, request error..."
+    },
+    "errores": {
+      "reservaRequerida": "Please select a reservation",
+      "descripcionRequerida": "Description is required",
+      "habitacionRequerida": "Room is required",
+      "tipoRequerido": "Please select a request type"
+    },
+    "cancelar": {
+      "titulo": "Cancel request",
+      "mensaje": "Are you sure you want to cancel the {tipo} request for room {habitacion}?",
+      "motivo": "Cancellation reason"
+    }
+  },
+  "inscripciones": {
+    "title": "Event & restaurant sign-ups",
+    "nuevo": "New sign-up",
+    "contadorUna": "sign-up on file",
+    "contadorVarias": "sign-ups on file",
+    "sinInscripciones": "No sign-ups yet",
+    "editarTitulo": "Edit sign-up",
+    "crearTitulo": "New sign-up",
+    "searchPlaceholder": "by activity, guest, or description...",
+    "categorias": {
+      "evento": "Event",
+      "restaurante": "Restaurant"
+    },
+    "estados": {
+      "pendiente": "Pending",
+      "confirmada": "Confirmed",
+      "cancelada": "Cancelled",
+      "completada": "Completed"
+    },
+    "campos": {
+      "categoria": "Category",
+      "nombreActividad": "Activity",
+      "descripcion": "Description",
+      "cliente": "Guest",
+      "reserva": "Reservation (optional)",
+      "fechaEvento": "Date",
+      "horaInicio": "Time",
+      "fechaHora": "Date & time",
+      "numeroPersonas": "Guests",
+      "estado": "Status"
+    },
+    "placeholders": {
+      "buscar": "Search by activity, guest...",
+      "seleccioneCliente": "Select a guest",
+      "reservaOpcional": "No reservation linked"
+    },
+    "filtros": {
+      "todasCategorias": "All categories",
+      "todosEstados": "All statuses"
+    },
+    "errores": {
+      "nombreRequerido": "Activity name is required",
+      "descripcionRequerida": "Description is required",
+      "clienteRequerido": "Please select a guest",
+      "personasInvalidas": "At least one guest",
+      "datosIncompletos": "Please complete required fields"
+    },
+    "acciones": {
+      "cancelar": "Cancel sign-up",
+      "marcarCompletada": "Mark completed"
+    },
+    "cancelar": {
+      "titulo": "Cancel sign-up",
+      "mensaje": "Cancel sign-up for «{actividad}»?",
+      "motivo": "Reason (optional)"
+    },
+    "eliminar": {
+      "titulo": "Delete sign-up",
+      "mensaje": "Only pending sign-ups can be deleted. Continue?"
+    }
+  },
+  "paquetes": {
+    "title": "Promotional packages",
+    "nuevo": "New package",
+    "contadorUno": "package in catalog",
+    "contadorVarios": "packages in catalog",
+    "sinPaquetes": "No packages yet",
+    "editarTitulo": "Edit package",
+    "crearTitulo": "New promotional package",
+    "searchPlaceholder": "by name, description, or validity...",
+    "estados": {
+      "activo": "Active",
+      "inactivo": "Inactive",
+      "agotado": "Sold out"
+    },
+    "campos": {
+      "nombre": "Name",
+      "descripcion": "Description",
+      "precioLista": "List price (COP)",
+      "precioPromocional": "Promotional price (COP)",
+      "fechaInicioVigencia": "Valid from",
+      "fechaFinVigencia": "Valid until",
+      "cuposTotales": "Total slots",
+      "cuposVendidos": "Slots sold",
+      "estado": "Status",
+      "incluye": "What is included"
+    },
+    "tabla": {
+      "precios": "Pricing",
+      "vigencia": "Validity",
+      "cupos": "Slots (sold/total)",
+      "descuento": "−{pct}% vs list"
+    },
+    "placeholders": {
+      "buscar": "Search packages..."
+    },
+    "filtros": {
+      "todosEstados": "All statuses"
+    },
+    "errores": {
+      "nombreRequerido": "Name is required",
+      "descripcionRequerida": "Description is required",
+      "incluyeRequerido": "Describe what the package includes",
+      "precioInvalido": "Price must be greater than zero",
+      "promoMayorLista": "Promotional price cannot exceed list price",
+      "cuposInvalidos": "At least one slot",
+      "cuposMenosVendidos": "Slots cannot be less than already sold",
+      "fechasInvalidas": "End date must be on or after start date",
+      "datosIncompletos": "Please check package data"
+    },
+    "eliminar": {
+      "titulo": "Delete package",
+      "mensaje": "Only inactive packages can be deleted. Continue?"
+    }
+  },
+  "tours": {
+    "title": "Tour scheduling",
+    "nuevo": "New booking",
+    "contadorUno": "booking",
+    "contadorVarios": "bookings",
+    "participanteUno": "participant",
+    "participanteVarios": "participants",
+    "mostrarAgendamientos": "Show",
+    "ocultarAgendamientos": "Hide bookings",
+    "sinAgendamientos": "No scheduled tours",
+    "sinAgendamientosTour": "No bookings scheduled for this tour",
+    "editarTitulo": "Edit booking",
+    "crearTitulo": "Book a tour",
+    "searchPlaceholder": "by tour, guest, or meeting point...",
+    "estados": {
+      "pendiente": "Pending",
+      "confirmado": "Confirmed",
+      "cancelado": "Cancelled",
+      "realizado": "Completed"
+    },
+    "campos": {
+      "tour": "Tour",
+      "cliente": "Guest",
+      "reserva": "Reservation (optional)",
+      "fecha": "Date",
+      "horaSalida": "Departure time",
+      "fechaHora": "Date & time",
+      "numeroParticipantes": "Participants",
+      "puntoEncuentro": "Meeting point",
+      "guiaAsignado": "Assigned guide",
+      "estado": "Status"
+    },
+    "placeholders": {
+      "buscar": "Search by tour, guest, meeting point...",
+      "seleccioneTour": "Select a tour",
+      "seleccioneCliente": "Select a guest",
+      "reservaOpcional": "No reservation linked"
+    },
+    "filtros": {
+      "todosEstados": "All statuses"
+    },
+    "errores": {
+      "tourRequerido": "Select a tour from the catalog",
+      "clienteRequerido": "Select a guest",
+      "puntoRequerido": "Enter a meeting point",
+      "participantesInvalidos": "At least one participant",
+      "datosIncompletos": "Please complete required fields"
+    },
+    "acciones": {
+      "cancelar": "Cancel booking",
+      "marcarConfirmado": "Mark confirmed",
+      "marcarRealizado": "Mark completed"
+    },
+    "cancelar": {
+      "titulo": "Cancel booking",
+      "mensaje": "Cancel the «{tour}» tour?",
+      "motivo": "Reason (optional)"
+    }
+  }
+}
